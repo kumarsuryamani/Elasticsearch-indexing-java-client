@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/common/httpclient-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/httpasyncclient-4.0-beta1.jar"/>
+	<classpathentry kind="lib" path="lib/common/httpcore-4.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/httpcore-nio-4.2.jar"/>
+	<classpathentry kind="lib" path="lib/common/gson-2.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/guava-13.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/common/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="lib/common/commons-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/elasticsearch-0.19.9.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/jna-3.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/lucene-analyzers-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/lucene-core-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/lucene-highlighter-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/lucene-memory-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/lucene-queries-3.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/ES-0.19.9/sigar-1.6.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
